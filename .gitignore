@@ -1,0 +1,14 @@
+﻿# 数据文件体积大，不提交
+*.csv
+*.xlsx
+*.db
+stats.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 系统
+.DS_Store
+Thumbs.db
